@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-08T21:55:49 CEST" name="Default Suite" finished-at="2023-10-08T21:55:50 CEST" duration-ms="1663">
+    <groups>
+    </groups>
+    <test started-at="2023-10-08T21:55:49 CEST" name="RestAssured" finished-at="2023-10-08T21:55:50 CEST" duration-ms="1663">
+      <class name="APITests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:APITests@473b46c3]" started-at="2023-10-08T21:55:49 CEST" name="setUp" finished-at="2023-10-08T21:55:49 CEST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testElementTitles()[pri:0, instance:APITests@473b46c3]" started-at="2023-10-08T21:55:49 CEST" name="testElementTitles" finished-at="2023-10-08T21:55:50 CEST" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testElementTitles -->
+        <test-method signature="testElementTypesAndURIs()[pri:0, instance:APITests@473b46c3]" started-at="2023-10-08T21:55:50 CEST" name="testElementTypesAndURIs" finished-at="2023-10-08T21:55:50 CEST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testElementTypesAndURIs -->
+        <test-method signature="testNumberOfElements()[pri:0, instance:APITests@473b46c3]" started-at="2023-10-08T21:55:50 CEST" name="testNumberOfElements" finished-at="2023-10-08T21:55:50 CEST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberOfElements -->
+        <test-method signature="testResponseStatus()[pri:0, instance:APITests@473b46c3]" started-at="2023-10-08T21:55:50 CEST" name="testResponseStatus" finished-at="2023-10-08T21:55:50 CEST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseStatus -->
+        <test-method signature="testSpecificElement()[pri:0, instance:APITests@473b46c3]" started-at="2023-10-08T21:55:50 CEST" name="testSpecificElement" finished-at="2023-10-08T21:55:50 CEST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpecificElement -->
+      </class> <!-- APITests -->
+    </test> <!-- RestAssured -->
+  </suite> <!-- Default Suite -->
+</testng-results>
